@@ -1,0 +1,457 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="7"/>
+    <General>
+      <Flags>
+        <MainUnitHasUsesSectionForAllUnits Value="False"/>
+        <MainUnitHasCreateFormStatements Value="False"/>
+        <MainUnitHasTitleStatement Value="False"/>
+        <LRSInOutputDirectory Value="False"/>
+      </Flags>
+      <MainUnit Value="0"/>
+      <TargetFileExt Value=".exe"/>
+      <ActiveEditorIndexAtStart Value="0"/>
+    </General>
+    <VersionInfo>
+      <ProjectVersion Value=""/>
+      <Language Value=""/>
+      <CharSet Value=""/>
+    </VersionInfo>
+    <PublishOptions>
+      <Version Value="2"/>
+      <IgnoreBinaries Value="False"/>
+      <IncludeFileFilter Value="*.(pas|pp|inc|lfm|lpr|lrs|lpi|lpk|sh|xml)"/>
+      <ExcludeFileFilter Value="*.(bak|ppu|ppw|o|so);*~;backup"/>
+    </PublishOptions>
+    <RunParams>
+      <local>
+        <FormatVersion Value="1"/>
+        <LaunchingApplication PathPlusParams="/usr/X11R6/bin/xterm -T 'Lazarus Run Output' -e $(LazarusDir)/tools/runwait.sh $(TargetCmdLine)"/>
+      </local>
+    </RunParams>
+    <Units Count="29">
+      <Unit0>
+        <Filename Value="project1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="project1"/>
+        <CursorPos X="40" Y="15"/>
+        <TopLine Value="40"/>
+        <EditorIndex Value="0"/>
+        <UsageCount Value="117"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="ktypes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="KTypes"/>
+        <CursorPos X="52" Y="61"/>
+        <TopLine Value="43"/>
+        <EditorIndex Value="12"/>
+        <UsageCount Value="117"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="kclasses.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="KClasses"/>
+        <CursorPos X="39" Y="29"/>
+        <TopLine Value="1"/>
+        <EditorIndex Value="6"/>
+        <UsageCount Value="117"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="kdrawlists.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="KDrawLists"/>
+        <CursorPos X="41" Y="57"/>
+        <TopLine Value="1"/>
+        <EditorIndex Value="8"/>
+        <UsageCount Value="117"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="kconst.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="KConst"/>
+        <CursorPos X="30" Y="34"/>
+        <TopLine Value="19"/>
+        <EditorIndex Value="11"/>
+        <UsageCount Value="117"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="kmodels.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="KModels"/>
+        <CursorPos X="2" Y="102"/>
+        <TopLine Value="93"/>
+        <EditorIndex Value="9"/>
+        <UsageCount Value="117"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="kfilereaders.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="KFileReaders"/>
+        <CursorPos X="48" Y="49"/>
+        <TopLine Value="14"/>
+        <UsageCount Value="117"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="kropekfx.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="KropekFX"/>
+        <CursorPos X="3" Y="20"/>
+        <TopLine Value="10"/>
+        <EditorIndex Value="3"/>
+        <UsageCount Value="117"/>
+        <Loaded Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="k3dsreaders.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="K3DSReaders"/>
+        <CursorPos X="97" Y="83"/>
+        <TopLine Value="1"/>
+        <EditorIndex Value="4"/>
+        <UsageCount Value="117"/>
+        <Loaded Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="kinit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="KInit"/>
+        <CursorPos X="25" Y="141"/>
+        <TopLine Value="130"/>
+        <EditorIndex Value="13"/>
+        <UsageCount Value="117"/>
+        <Loaded Value="True"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="kformats.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="KFormats"/>
+        <CursorPos X="47" Y="18"/>
+        <TopLine Value="1"/>
+        <EditorIndex Value="10"/>
+        <UsageCount Value="117"/>
+        <Loaded Value="True"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="kcameras.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="KCameras"/>
+        <CursorPos X="30" Y="15"/>
+        <TopLine Value="1"/>
+        <EditorIndex Value="7"/>
+        <UsageCount Value="117"/>
+        <Loaded Value="True"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="krendering.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="KRendering"/>
+        <CursorPos X="1" Y="16"/>
+        <TopLine Value="1"/>
+        <UsageCount Value="117"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="kosinterface.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="KOSInterface"/>
+        <CursorPos X="33" Y="18"/>
+        <TopLine Value="1"/>
+        <EditorIndex Value="5"/>
+        <UsageCount Value="117"/>
+        <Loaded Value="True"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="kcollisions.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="KCollisions"/>
+        <CursorPos X="21" Y="91"/>
+        <TopLine Value="1"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="111"/>
+        <Loaded Value="True"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="kdebug.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="KDebug"/>
+        <CursorPos X="17" Y="7"/>
+        <TopLine Value="1"/>
+        <EditorIndex Value="2"/>
+        <UsageCount Value="97"/>
+        <Loaded Value="True"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="kmodelsets.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="KModelSets"/>
+        <CursorPos X="35" Y="12"/>
+        <TopLine Value="1"/>
+        <UsageCount Value="92"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="Dokumentacja.txt"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="63" Y="54"/>
+        <TopLine Value="28"/>
+        <UsageCount Value="92"/>
+        <SyntaxHighlighter Value="None"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="C:/lazarus/fpc/2.2.2/source/packages/opengl/src/glut.pp"/>
+        <UnitName Value="Glut"/>
+        <CursorPos X="85" Y="9"/>
+        <TopLine Value="403"/>
+        <UsageCount Value="3"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="klights.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="KLights"/>
+        <CursorPos X="46" Y="66"/>
+        <TopLine Value="43"/>
+        <UsageCount Value="69"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="kobscenes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="KObscenes"/>
+        <CursorPos X="42" Y="45"/>
+        <TopLine Value="20"/>
+        <UsageCount Value="68"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="UE/kuehumanmodelcollider.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="KUEHumanModelCollider"/>
+        <CursorPos X="60" Y="20"/>
+        <TopLine Value="13"/>
+        <UsageCount Value="29"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="UE/kropekfxue.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="KropekFXUE"/>
+        <CursorPos X="26" Y="10"/>
+        <TopLine Value="1"/>
+        <UsageCount Value="29"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="KTexManagers.pa"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="14" Y="2"/>
+        <TopLine Value="1"/>
+        <UsageCount Value="24"/>
+        <SyntaxHighlighter Value="None"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="ktexmanager.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="KTexManager"/>
+        <CursorPos X="66" Y="29"/>
+        <TopLine Value="1"/>
+        <UsageCount Value="24"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="C:/lazarus/components/glscene/Source/fileformats/const3ds.pas"/>
+        <UnitName Value="Const3DS"/>
+        <CursorPos X="1" Y="1"/>
+        <TopLine Value="235"/>
+        <UsageCount Value="10"/>
+        <SyntaxHighlighter Value="Delphi"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="C:/lazarus/components/glscene/Source/fileformats/file3ds.pas"/>
+        <UnitName Value="File3DS"/>
+        <CursorPos X="40" Y="81"/>
+        <TopLine Value="154"/>
+        <UsageCount Value="10"/>
+        <SyntaxHighlighter Value="Delphi"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="C:/lazarus/components/glscene/Source/fileformats/glfile3ds.pas"/>
+        <UnitName Value="GLFile3DS"/>
+        <CursorPos X="26" Y="186"/>
+        <TopLine Value="268"/>
+        <UsageCount Value="10"/>
+        <SyntaxHighlighter Value="Delphi"/>
+      </Unit27>
+      <Unit28>
+        <Filename Value="C:/lazarus/components/glscene/Source/fileformats/types3ds.pas"/>
+        <UnitName Value="Types3DS"/>
+        <CursorPos X="56" Y="4"/>
+        <TopLine Value="247"/>
+        <UsageCount Value="10"/>
+        <SyntaxHighlighter Value="Delphi"/>
+      </Unit28>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="kcollisions.pas"/>
+        <Caret Line="67" Column="24" TopLine="56"/>
+      </Position1>
+      <Position2>
+        <Filename Value="kcollisions.pas"/>
+        <Caret Line="73" Column="53" TopLine="56"/>
+      </Position2>
+      <Position3>
+        <Filename Value="kcollisions.pas"/>
+        <Caret Line="75" Column="22" TopLine="56"/>
+      </Position3>
+      <Position4>
+        <Filename Value="kcollisions.pas"/>
+        <Caret Line="68" Column="46" TopLine="56"/>
+      </Position4>
+      <Position5>
+        <Filename Value="kropekfx.pas"/>
+        <Caret Line="10" Column="69" TopLine="4"/>
+      </Position5>
+      <Position6>
+        <Filename Value="kcollisions.pas"/>
+        <Caret Line="78" Column="16" TopLine="56"/>
+      </Position6>
+      <Position7>
+        <Filename Value="kcollisions.pas"/>
+        <Caret Line="86" Column="6" TopLine="62"/>
+      </Position7>
+      <Position8>
+        <Filename Value="kcollisions.pas"/>
+        <Caret Line="83" Column="12" TopLine="65"/>
+      </Position8>
+      <Position9>
+        <Filename Value="kcollisions.pas"/>
+        <Caret Line="82" Column="21" TopLine="65"/>
+      </Position9>
+      <Position10>
+        <Filename Value="kcollisions.pas"/>
+        <Caret Line="52" Column="11" TopLine="34"/>
+      </Position10>
+      <Position11>
+        <Filename Value="kcollisions.pas"/>
+        <Caret Line="44" Column="47" TopLine="38"/>
+      </Position11>
+      <Position12>
+        <Filename Value="kcollisions.pas"/>
+        <Caret Line="53" Column="11" TopLine="42"/>
+      </Position12>
+      <Position13>
+        <Filename Value="kcollisions.pas"/>
+        <Caret Line="48" Column="80" TopLine="43"/>
+      </Position13>
+      <Position14>
+        <Filename Value="kcollisions.pas"/>
+        <Caret Line="56" Column="65" TopLine="47"/>
+      </Position14>
+      <Position15>
+        <Filename Value="kcollisions.pas"/>
+        <Caret Line="70" Column="1" TopLine="55"/>
+      </Position15>
+      <Position16>
+        <Filename Value="kcollisions.pas"/>
+        <Caret Line="71" Column="29" TopLine="58"/>
+      </Position16>
+      <Position17>
+        <Filename Value="kcollisions.pas"/>
+        <Caret Line="74" Column="25" TopLine="65"/>
+      </Position17>
+      <Position18>
+        <Filename Value="kcollisions.pas"/>
+        <Caret Line="76" Column="27" TopLine="31"/>
+      </Position18>
+      <Position19>
+        <Filename Value="kcollisions.pas"/>
+        <Caret Line="63" Column="1" TopLine="59"/>
+      </Position19>
+      <Position20>
+        <Filename Value="kcollisions.pas"/>
+        <Caret Line="89" Column="37" TopLine="71"/>
+      </Position20>
+      <Position21>
+        <Filename Value="kcollisions.pas"/>
+        <Caret Line="92" Column="32" TopLine="58"/>
+      </Position21>
+      <Position22>
+        <Filename Value="kcollisions.pas"/>
+        <Caret Line="89" Column="28" TopLine="17"/>
+      </Position22>
+      <Position23>
+        <Filename Value="kcollisions.pas"/>
+        <Caret Line="6" Column="26" TopLine="1"/>
+      </Position23>
+      <Position24>
+        <Filename Value="kmodels.pas"/>
+        <Caret Line="8" Column="36" TopLine="4"/>
+      </Position24>
+      <Position25>
+        <Filename Value="kmodels.pas"/>
+        <Caret Line="21" Column="3" TopLine="3"/>
+      </Position25>
+      <Position26>
+        <Filename Value="kmodels.pas"/>
+        <Caret Line="36" Column="3" TopLine="27"/>
+      </Position26>
+      <Position27>
+        <Filename Value="kmodels.pas"/>
+        <Caret Line="102" Column="2" TopLine="93"/>
+      </Position27>
+      <Position28>
+        <Filename Value="kropekfx.pas"/>
+        <Caret Line="10" Column="51" TopLine="2"/>
+      </Position28>
+      <Position29>
+        <Filename Value="kropekfx.pas"/>
+        <Caret Line="20" Column="3" TopLine="10"/>
+      </Position29>
+      <Position30>
+        <Filename Value="project1.pas"/>
+        <Caret Line="20" Column="43" TopLine="4"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="8"/>
+    <SearchPaths>
+      <OtherUnitFiles Value="UE/"/>
+    </SearchPaths>
+    <Parsing>
+      <SyntaxOptions>
+        <CStyleOperator Value="False"/>
+      </SyntaxOptions>
+    </Parsing>
+    <CodeGeneration>
+      <Optimizations>
+        <OptimizationLevel Value="0"/>
+      </Optimizations>
+    </CodeGeneration>
+    <Other>
+      <Verbosity>
+        <ShowHintsForUnusedUnitsInMainSrc Value="True"/>
+      </Verbosity>
+      <WriteFPCLogo Value="False"/>
+      <CustomOptions Value="TALKALOT"/>
+      <CompilerPath Value="$(CompPath)"/>
+    </Other>
+  </CompilerOptions>
+  <Debugging>
+    <Watches Count="1">
+      <Item1>
+        <Expression Value="KPositionable"/>
+        <Enabled Value="False"/>
+      </Item1>
+    </Watches>
+    <Exceptions Count="2">
+      <Item1>
+        <Name Value="ECodetoolError"/>
+      </Item1>
+      <Item2>
+        <Name Value="EFOpenError"/>
+      </Item2>
+    </Exceptions>
+  </Debugging>
+</CONFIG>
